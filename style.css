@@ -1,0 +1,32 @@
+*{
+    font-family: 'Source Sans 3', sans-serif;
+    margin: 0px;
+}
+
+html{
+    font-size: 5.6rem;
+}
+
+
+:root{
+    --brandclr : #802A8F;
+    --whycioncardbg : #D37FA0;
+    --colorBlack : #444444;
+    --ourServicesGrayClr : #979797;
+    --FindOurLocationsbgclr : #FBE4FF;
+
+    --ourservicesCardBorderClr : #D5D5D5;
+    --ourDoctorsBoxShadow : box-shadow: 16px 18px 45px 0px #00000026;
+
+}
+
+@media screen and (min-width : 768px) {
+    html{
+        font-size:  1.8rem;
+    }
+}
+
+
+h1{
+    background-color: red;
+}
